@@ -1,0 +1,6 @@
+rise=5.7.1=py310hecd8cb5_0
+jupyter_client=7.3.5=py310hecd8cb5_0
+jupyter_core=4.10.0=py310hecd8cb5_0
+jupyterlab_pygments=0.1.2=py_0
+conda-forge
+jupyter_nbextensions_configurator

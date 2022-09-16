@@ -1,0 +1,3 @@
+[submodule "quickstarts"]
+	path = quickstarts
+	url = https://github.com/dapr/quickstarts

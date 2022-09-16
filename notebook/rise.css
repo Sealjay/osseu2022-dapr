@@ -1,0 +1,18 @@
+.reveal {
+    font-family:"Segoe UI", "Quicksand", sans-serif;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-family:"Segoe UI Semibold","Segoe UI", "Quicksand", sans-serif;
+}
+.reveal ul {
+    font-family:"Segoe UI Light","Segoe UI", "Quicksand", sans-serif;
+}
+
+#help_b {display: none;}
+
+#exit_b {color:#FFF!important;opacity: 0.0;width:10px;height:10px;}
+
+#exit_b:hover {color:red!important;opacity: 1;}
+
+#rise-header {margin-left: 3em;}
